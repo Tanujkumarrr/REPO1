@@ -5,6 +5,7 @@ public class Sum {
 		int result = x +y ;
 		System.out.println("hi");
 		System.out.println("TL");
+		System.out.println("result "+result);
 		
 	}
 }
